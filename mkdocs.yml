@@ -1,0 +1,52 @@
+site_name: Asolear. Energia Renovable.
+site_url: https://asolear.com
+theme:
+  palette:
+    primary: indigo
+  name: material
+  language: es
+  favicon: assets/favicon.ico
+  logo: assets/logo.svg
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+plugins:
+  # - pdf-export # *** ERROR: Failed to load image at 'http://yoursite.com/the.pdf':
+  # - pdf-export:
+  #     verbose: true
+  # - mknotebooks
+  - mkdocs-video
+  - search
+  - macros:
+      include_dir: snippets  
+  # - print-site
+
+      #  icono "≡"
+# https://analytics.google.com/analytics/web/?authuser=2#/p288143966/realtime/overview?params=_u..nav%3Dmaui
+extra:
+  analytics:
+    provider: google
+    property: G-BY8HY373BD
+  fig:
+    url: https://flaskimg-yzohicfcma-ew.a.run.app/
+    # url: http://192.168.1.113:8080/
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+
+copyright: 'Copyright 2021 Asolear'
