@@ -6,19 +6,6 @@
     </embed>
 </object>
 
-c
-## Informes
-
-???+ Abstract "InformeCompensación de excedentes (diario)"
-    !!! Warning "Editar informe ($t_{1^a\ carga}\leq 15s.$) "
-    
-    [![Placeholder](../img/e_AUTOCONSUMO_COMPENSACION.png)](https://eee1-uom5ariccq-ew.a.run.app/estudios/e_AUTOCONSUMO_COMPENSACION){ .md-button }
-
-
-???+ Abstract "InformeCompensación de excedentes (anual)"
-    !!! Warning "Editar informe ($t_{1^a\ carga}\leq 15s.$) "
-    
-    [![Placeholder](../img/e_A_COMPENSACION_ANUAL.png)](https://eee1-uom5ariccq-ew.a.run.app/estudios/e_A_COMPENSACION_ANUAL){ .md-button }
 
 ## Introduccion
 En este anexo se presentan ejemplos de varias configuraciones de instalaciones de autoconsumo
@@ -413,3 +400,18 @@ compensación simplificada ya que se pueden cumplir las condiciones descritas en
 - [Guía profesional de tramitación del autoconsumo ](https://www.idae.es/publicaciones/guia-profesional-de-tramitacion-del-autoconsumo)
 - [Preguntas frecuentes sobre autoconsumo](https://energia.gob.es/electricidad/autoconsumo-electricoPaginas/preguntas-frecuentes-autoconsumo.aspx)
 - [Plan de Recuperación, Transformación y Resiliencia](https://planderecuperacion.gob.es/)
+
+
+
+## Informes
+
+???+ Abstract "InformeCompensación de excedentes (diario)"
+    !!! Warning "Editar informe ($t_{1^a\ carga}\leq 15s.$) "
+    
+    [![Placeholder](../img/e_AUTOCONSUMO_COMPENSACION.png)](https://eee1-uom5ariccq-ew.a.run.app/estudios/e_AUTOCONSUMO_COMPENSACION){ .md-button }
+
+
+???+ Abstract "InformeCompensación de excedentes (anual)"
+    !!! Warning "Editar informe ($t_{1^a\ carga}\leq 15s.$) "
+    
+    [![Placeholder](../img/e_A_COMPENSACION_ANUAL.png)](https://eee1-uom5ariccq-ew.a.run.app/estudios/e_A_COMPENSACION_ANUAL){ .md-button }

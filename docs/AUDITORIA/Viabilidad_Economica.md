@@ -1,11 +1,5 @@
 # Viabilidad ECONÓMICA
 
-## Informes
-
-???+ Abstract "Informe VIABILIDAD ECONÓMICA"
-    !!! Warning "Editar informe ($t_{1^a\ carga}\leq 15s.$) "
-
-    [![Placeholder](../img/e_A_FINANCIACION.png){ loading=lazy }](https://eee1-uom5ariccq-ew.a.run.app/estudios/e_A_FINANCIACION){ .md-button }
 
 ## Valor tiempo del dinero
 
@@ -410,3 +404,11 @@ Una *r < TIR* quiere decir que en el mercado **hemos encontrado una inversión q
 - [Tasa interna de retorno](https://es.wikipedia.org/wiki/Tasa_interna_de_retorno)
 - [Valor tiempo del dinero](https://es.wikipedia.org/wiki/Valor_tiempo_del_dinero)
 
+
+
+## Informes
+
+???+ Abstract "Informe VIABILIDAD ECONÓMICA"
+    !!! Warning "Editar informe ($t_{1^a\ carga}\leq 15s.$) "
+
+    [![Placeholder](../img/e_A_FINANCIACION.png){ loading=lazy }](https://eee1-uom5ariccq-ew.a.run.app/estudios/e_A_FINANCIACION){ .md-button }

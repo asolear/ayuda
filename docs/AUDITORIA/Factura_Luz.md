@@ -3,18 +3,6 @@
 
 # Factura de la luz
 
-## Informes
-
-???+ Abstract "Factura de la luz"
-    !!! Warning "Editar informe ($t_{1^a\ carga}\leq 15s.$) "
-    
-    [![Placeholder](../img/e_A_FACTURA.png){ loading=lazy }](https://eee1-uom5ariccq-ew.a.run.app/estudios/e_A_FACTURA){ .md-button }
-
-
-???+ Abstract "Analisis curva de carga"
-    !!! Warning "Editar informe ($t_{1^a\ carga}\leq 15s.$) "
-
-    [![Placeholder](../img/e_A_CARGA.png){ loading=lazy }](https://eee1-uom5ariccq-ew.a.run.app/estudios/e_A_CARGA){ .md-button }
 
 ## 1. Objeto
 ![Placeholder]({{ fig.url }}plot.png){ align=left }
@@ -832,3 +820,15 @@ Cuadro 16).
 
  [CNS/DE/1467/20: CONSULTAS VARIAS SOBRE LA IMPLEMENTACIÓN DE LA CIRCULAR 3/2020 DE 15 DE ENERO POR LA QUE SE ESTABLECE LA METODOLOGÍA PARA EL CÁLCULO DE LOS  PEAJES DE TRANSPORTE Y DISTRIBUCIÓN DE ELECTRICIDAD](https://www.cnmc.es/expedientes/cnsde146720) 
 
+## Informes
+
+???+ Abstract "Factura de la luz"
+    !!! Warning "Editar informe ($t_{1^a\ carga}\leq 15s.$) "
+    
+    [![Placeholder](../img/e_A_FACTURA.png){ loading=lazy }](https://eee1-uom5ariccq-ew.a.run.app/estudios/e_A_FACTURA){ .md-button }
+
+
+???+ Abstract "Analisis curva de carga"
+    !!! Warning "Editar informe ($t_{1^a\ carga}\leq 15s.$) "
+
+    [![Placeholder](../img/e_A_CARGA.png){ loading=lazy }](https://eee1-uom5ariccq-ew.a.run.app/estudios/e_A_CARGA){ .md-button }
