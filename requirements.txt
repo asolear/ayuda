@@ -6,5 +6,3 @@ mkdocs-pdf-export-plugin # ***
 # mkdocs-pdf-with-js-plugin  # no
 # mkdocs-print-site-plugin
 mkdocs-video
-# mkdocs-material-extensions 
-# pymdown-extensions 
