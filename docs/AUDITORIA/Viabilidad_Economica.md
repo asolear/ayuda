@@ -412,3 +412,6 @@ Una *r < TIR* quiere decir que en el mercado **hemos encontrado una inversión q
     !!! Warning "Editar informe ($t_{1^a\ carga}\leq 15s.$) "
 
     [![Placeholder](../img/e_A_FINANCIACION.png){ loading=lazy }](https://eee1-uom5ariccq-ew.a.run.app/estudios/e_A_FINANCIACION){ .md-button }
+
+
+
