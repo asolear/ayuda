@@ -1,6 +1,6 @@
 
 #
-???+  "Ayudas Solar"
+???+ warning "Ayudas Solar"
 
     ??? Abstract "BOE.- Real Decreto 477/2021, ayudas ... autoconsumo  y  al  almacenamiento, ... energía  renovable... "
 
@@ -29,7 +29,7 @@
         </object>
         {% endwith %}
 
-???+  "FACTURA DE LA LUZ"
+???  "FACTURA DE LA LUZ"
 
 
     ??? Abstract "CNMC.- RESPUESTAS ACLARATORIAS A LAS CONSULTAS FORMULADAS EN RELACIÓN CON LA CIRCULAR 3/2020 DE PEAJES ELÉCTRICOS  "
