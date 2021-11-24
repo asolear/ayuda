@@ -1594,34 +1594,3 @@ b) A los veintiún meses desde la fecha de  entrada en vigor de este real decr
 | Melilla.                     | 0,9 MW                                                       | 0,2 MWh                     |
 | Total.                       | 777,7 MW                                                     | 254,7 MWh                   |
 
-Análisis
-
-[subir](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10824#top)
-
-[Contactar](https://www.boe.es/contactar/)
-
-[Sobre esta sede electrónica](https://www.boe.es/informacion/index.php)
-
-[Mapa](https://www.boe.es/informacion/mapa_web/)
-
-[Aviso legal](https://www.boe.es/informacion/aviso_legal/index.php)
-
-[Accesibilidad](https://www.boe.es/informacion/accesibilidad/)
-
-[Protección de datos](https://www.boe.es/informacion/index.php#proteccion-de-datos)
-
-[Tutoriales](https://www.boe.es/informacion/tutoriales/)
-
-[![RSS](Untitled.assets/rss_32.png)](https://www.boe.es/rss/)
-
-[![Twitter](Untitled.assets/twitter_32.png)](https://www.boe.es/redes_sociales?pag=tw)
-
-[![Facebook](Untitled.assets/facebook_32.png)](https://www.boe.es/redes_sociales?pag=fb)
-
-[![LinkedIn](Untitled.assets/linkedin_32.png)](https://www.boe.es/redes_sociales?pag=ln)
-
-[![YouTube](Untitled.assets/youtube_32.png)](https://www.boe.es/redes_sociales?pag=yt)
-
-Agencia Estatal Boletín Oficial del Estado
-
-Avda. de Manoteras, 54 - 28050 Madrid

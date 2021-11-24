@@ -1,5 +1,5 @@
-site_name: Asolear. Energia Renovable.
-site_url: https://asolear.com
+site_name: Ayudas Solar
+site_url: https://ayudas.solar
 theme:
   palette:
     primary: indigo
@@ -20,7 +20,6 @@ plugins:
   - macros:
       include_dir: snippets  
   # - print-site
-
       #  icono "≡"
 # https://analytics.google.com/analytics/web/?authuser=2#/p288143966/realtime/overview?params=_u..nav%3Dmaui
 extra:
@@ -32,6 +31,11 @@ extra:
     # url: http://192.168.1.113:8080/
 
 markdown_extensions:
+  - meta
+  - tables
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - attr_list
   - md_in_html
   - admonition
