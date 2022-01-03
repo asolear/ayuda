@@ -30,7 +30,6 @@ A los efectos anteriores, para facilitar la compresión de todos los agentes, se
 procede en primer lugar, a enmarcar el contenido la Circular 3/2020 en el
 esquema general precios al que debe hacer frente un consumidor por el
 suministro de energía.
-![Placeholder]({{ fig.url }}plot.png)
 
 
 ## 2. Peajes y cargos
