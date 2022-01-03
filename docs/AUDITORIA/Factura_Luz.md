@@ -5,8 +5,7 @@
 
 
 ## 1. Objeto
-![Placeholder]({{ fig.url }}plot.png){ align=left }
-![Placeholder]({{ fig.url }}plot.png){ align=right }
+
 
 El Real Decreto-ley 1/2019, de 11 de enero 1 , modifica las competencias de la
 CNMC como autoridad reguladora nacional en relación a la metodología para el
@@ -321,7 +320,7 @@ contratada igual o inferior a 15 kW:
 i. No les será de aplicación la facturación por potencia demandada
 cuando dispongan de Interruptor de Control de Potencia (ICP).
 ii. No les será de aplicación la facturación por energía reactiva.
-b) En el ámbito de las conexiones internacionales:
+b) En el ámbito de las conexiones internacionales:xx
 i. Dado que no se contrata potencia, la facturación de potencia, en
 cada período tarifario, se calculará multiplicando el precio
 establecido para el término de potencia por la suma de las
@@ -363,11 +362,25 @@ Donde:
 - $P_{C_p}$ Potencia contratada en el período horario p , expresada en kW.
 - i :Número de periodos horarios de los que consta el término def acturación de potencia del peaje correspondiente.	
 
+CNS/DE/1467/20 Comisión Nacional de los Mercados y la Competencia
+C/ Barquillo, 5 – 28004 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es
+Página 14 de 51
+La facturación de potencia se prorrateará por el número de días de cada año
+(normal o bisiesto), o el número de horas en el caso de contratos de duración
+inferior al día, que comprende el periodo de facturación, considerando que el día
+de lectura inicial está excluido y el día de lectura final está incluido.
+A modo ilustrativo, en el Cuadro 6 se muestra la facturación por potencia
+contratada para tres consumidores, acogidos a los peajes 2.0 TD, 3.0 TD y 6.1
+TD, a los términos de potencia de la Resolución de 18 marzo de 20218, de la
+Comisión Nacional de los Mercados y de la Competencia, por la que se
+establecen los valores de los peajes de transporte y distribución para el ejercicio
+2021 (recogidos en el Anexo I del documento) y que el periodo de facturación
+comprende 30 días
+
+![image-20220103011514884](Factura_Luz.assets/image-20220103011514884.png)
 
 
-
-
-![image-20210902135148933](Factura_Luz.assets/image-20210902135148933.png)
 
 
 
@@ -397,9 +410,9 @@ energía activa para tres consumidores, acogidos a los peajes 2.0 TD, 3.0 TD y
 
 
 
-![image-20210902141039272](Factura_Luz.assets/image-20210902141039272.png)
 
 
+![image-20220103011711868](Factura_Luz.assets/image-20220103011711868.png)
 
 
 
@@ -670,6 +683,71 @@ esquema dependerá del número de cuartos de hora que se exceda la potencia,
 el exceso de la potencia demandada respecto de la potencia facturada y del
 momento en que se produzca el exceso de potencia.
 
+
+
+Por otra parte, como se ha indicado y así se recoge en la Memoria que acompaña
+a la Circular 3/2020, con carácter general se mantienen las condiciones de
+facturación de excesos de potencia vigentes. No obstante, al desvincular la
+facturación por potencia contratada y excesos de potencia, se ha perdido la
+vinculación temporal entre ambos términos. Es por ello que se ha hecho
+necesario aclarar en el punto 2 del resuelve primero de la Resolución por la que
+se establecen los valores de los peajes de transporte y distribución para el
+ejercicio 2021, que la facturación por potencia demandada se realizará
+mensualmente, prorrateándose por el número de días que comprende el periodo
+de facturación, considerando que el día de lectura inicial está excluido y el día
+de lectura final está incluido y que los meses son de 30 días. Este mismo criterio
+será de aplicación en el caso de que se produzca una modificación de la potencia
+contratada o cuando se produzca un cambio de temporada durante el ciclo de
+lectura
+
+Teniendo en cuenta las consultas recibidas al respecto, a continuación se
+muestran algunos ejemplos de facturación por potencia demandada en el caso
+de que el período de facturación no se corresponda con un ciclo mensual.
+
+En el Cuadro 14 se presenta la facturación de un consumidor conectado en baja
+tensión con potencia contratada es 10 kW (peaje 2.0 TD) de carácter no
+interrumpible y cuya facturación es bimensual.
+
+![image-20220103012117927](Factura_Luz.assets/image-20220103012117927.png)
+
+
+
+![image-20220103012132433](Factura_Luz.assets/image-20220103012132433.png)
+
+
+
+En el caso de que el ciclo de facturación no coincida con meses naturales y se
+dé la circunstancia que se produzca un cambio de temporada entre meses, la
+facturación por potencia demandada se prorrateará para cada período por el
+número de días que dicho período ha estado activo dentro del ciclo de
+facturación.
+Cuadro 16. Ejemplo de facturación por excesos de potencia de un consumidor acogido
+al peaje 3.0 TD con medida tipo 4 y facturación de un ciclo de 35 días con cambio de
+temporada (del 29 de julio al 2 de septiembre)
+
+
+
+![image-20220103012154310](Factura_Luz.assets/image-20220103012154310.png)
+
+En el Cuadro 17 se presenta la facturación de un consumidor acogido a la tarifa
+3.0 TD, con medida Tipo 4 para el que se tramita un cambio de potencia en mitad
+de un ciclo de 30 días
+
+
+
+![image-20220103012221322](Factura_Luz.assets/image-20220103012221322.png)
+
+En el caso de que se produjera un cambio de comercializador durante el ciclo de
+lectura, el distribuidor deberá calcular, en su caso, la facturación por excesos de
+potencia considerando el ciclo de lectura completo y asignar la totalidad de la
+facturación por este concepto al comercializador entrante.
+
+
+
+
+
+
+
 ### 6.4. Facturación por energía reactiva
 
 La Circular 3/2020, de 15 de enero, mantiene las condiciones de facturación
@@ -813,7 +891,604 @@ en la quinta factura se procedería a la regularización de las cinco primeras
 facturas emitidas (esto es, se consideraría un recargo de -72% para lo facturado
 en las cuatro primeras facturas) y la facturación del último periodo considerando
 el porcentaje correspondiente a la duración real del contrato (63%) (véase
-Cuadro 16).
+Cuadro 20).
+
+
+
+![image-20220103012405828](Factura_Luz.assets/image-20220103012405828.png)
+
+En caso de que el contrato de corto plazo superara el año de duración se debería
+proceder a regularizar el término de potencia de los 12 meses anteriores, con
+objeto de eliminar el recargo aplicado. De esta forma el término de potencia
+aplicado sería el del peaje correspondiente sin ningún tipo de recargo.
+Finalmente, conforme al resuelve segundo de la Resolución de precios para
+2021, estos recargos aplicarán para los nuevos contratos suscritos a partir de la
+entrada en vigor de los valores de peajes y cargos. A los contratos de menos de
+un año en vigor con anterioridad a la aplicación de los peajes de transporte y
+
+distribución establecidos en la resolución les serán de aplicación, una vez sean
+aplicables los precios fijados por la CNMC, los periodos horarios de la Circular y
+los precios de la Resolución. Hasta que sean de aplicación dichos precios
+establecidos en la resolución de la CNMC, se les aplicarán los recargos y
+condiciones particulares de aplicación establecidos en el artículo 6 del Real
+Decreto 1164/2001, de 26 de octubre, por el que se establecen tarifas de acceso
+a las redes de transporte y distribución de energía eléctrica.
+
+
+
+
+
+## 8. Coeficientes de pérdidas
+
+La Circular 3/2020 establece en el artículo 11 los coeficientes de pérdidas para
+traspasar la energía suministrada en contador a energía suministrada en barras
+de central a los efectos de las liquidaciones previstas en el Real Decreto
+2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de
+producción de energía eléctrica (véase Cuadro 21).
+
+![image-20220103012523360](Factura_Luz.assets/image-20220103012523360.png)
+
+Los coeficientes de pérdidas estándar desagregados por nivel de tensión y
+período horario elevan la energía demandada por el consumidor y, por tanto,
+registrada en el contador a energía en barras de central. Estos coeficientes se
+introdujeron en 1998 y han permanecido invariables desde entonces.
+Ha sido, por tanto, necesario modificar dichos coeficientes al objeto de
+adecuarlos, no solo, a los cambios introducidos por la Circular en la estructura
+de peajes y en los períodos horarios sino también a los cambios en la estructura
+de la generación que se han producido en los últimos veinte años.
+El objetivo de la actualización de estos coeficientes de pérdidas estándar es
+aproximarlos al valor de las pérdidas reales en las redes.
+No obstante, Red Eléctrica de España seguirá publicando los archivos con los
+valores horarios k de ajuste entre las pérdidas estándar y las pérdidas reales,
+adaptándoles a la nueva estructura de peajes, períodos horarios y coeficientes
+estándar. Estos valores k serán previsiblemente más bajos en la medida en que
+las pérdidas estándar se acercarán más a las pérdidas reales.
+
+
+
+
+
+## 9. Acreditación del punto de recarga del vehículo eléctrico de acceso público (Disposición adicional segunda)
+
+
+
+La disposición adicional segunda de la Circular 3/2020 introduce un peaje
+específico opcional de aplicación a los puntos de recarga de vehículos eléctricos
+de acceso público, para lo que el titular del punto de suministro deberá acreditar:
+\1) Que el punto de suministro será de utilización exclusiva para la recarga
+de vehículos eléctricos.
+\2) Que el punto de recarga será de acceso público.
+A efectos anteriores, el titular del punto de suministro deberá aportar al
+distribuidor, bien directamente, bien a través de un comercializador de su libre
+elección, junto con la solicitud de contratación de acceso a la red el Boletín de la
+instalación y una declaración en la que se ponga de manifiesto que el punto de
+recarga será de acceso público y de uso exclusivo para la recarga de vehículos
+eléctricos, a efectos de la aplicación del peaje por parte del distribuidor.
+Se indica que de acuerdo con lo establecido en el punto quinto de la citada
+disposición adicional segunda, en el caso de que se detectara que el punto de
+suministro no es de dedicación exclusiva a la recarga de vehículos eléctricos de
+acceso público, se procederá a la refacturación de todos los consumos desde el
+momento inicial de la aplicación del peaje específico de recarga de vehículos
+eléctricos aplicando los términos de potencia, energía activa, potencia
+demandada y energía reactiva que correspondieran al peaje de aplicación al
+punto de suministros incrementados los precios en un 20%.
+Se considera que el punto de suministro es de uso exclusivo para la recarga de
+vehículos eléctricos cuando su consumo se dedica a la recarga de vehículos y a
+los consumos propios asociados a dicho punto de recarga. Esto es, se contempla
+la posibilidad de que exista un consumo/potencia residual para otros usos
+asociados dentro del contrato como por ejemplo farolas de iluminación, con
+objeto de evitar el impacto sobre la penetración de los puntos de recarga de
+acceso público derivado de la obligación de contratar un segundo punto de
+suministro. Al respecto cabe recordar que el diseño de los peajes de aplicación
+a los puntos de suministro dedicados con exclusividad a la recarga de vehículos
+eléctricos se ha diseñado para que a partir de una utilización de potencia superior
+al 10% (el equivalente aproximado a 5 recargas diarias) sea más rentable la
+aplicación del peaje general.
+
+
+
+
+
+## 10. Entrada en vigor
+
+La Circular 3/2020, de 15 de enero, entró en vigor al día siguiente de su
+publicación en el Boletín Oficial del Estado. No obstante, a efectos de
+
+proporcionar a los agentes un periodo de tiempo suficiente para la adaptación de
+los equipos de medida, los sistemas de facturación y de los contratos de los
+consumidores a la estructura de los peajes de acceso a las redes de transporte
+y distribución establecidos en la Circular, se estableció un periodo transitorio que
+se prolongó hasta el 1 de junio de 2021, fecha en la que fueron de aplicación los
+cargos aprobados por el Ministerio para la Transición Ecológica y el Reto
+Demográfico, a fin de aclarar que, en todo caso, hasta que sean de aplicación
+los valores de dichos cargos, se aplicarán los peajes de acceso y las condiciones
+de facturación vigentes con anterioridad a la entrada en vigor de la citada Circular
+3/202015.
+Las distribuidoras han debido comunicar con anterioridad a las
+comercializadoras qué peaje aplicará a partir de la efectiva aplicación de peajes
+y cargos, especialmente para el caso de los suministros con peaje vigente 3.1 A,
+que deberán determinar si pasan a facturarles según peaje 6.1TD o 6.2TD,
+dependiendo del nivel de tensión.
+
+
+
+## 11. Periodo transitorio
+
+
+
+La disposición transitoria primera de la Circular 3/2020, relativa a la adaptación
+de los equipos de medida, los sistemas de facturación y los contratos establece
+el periodo para la adaptación a la estructura de peajes de la misma y las
+condiciones de facturación que se deben aplicar en tanto no se produzca dicha
+adaptación.
+Teniendo en cuenta las consultas en relación con el periodo transitorio recibidas
+por parte de los distintos agentes desde la publicación de la Circular 3/2020 se
+hace necesario aclarar los siguientes aspectos:
+
+### Respecto de la adaptación de los equipos de medida
+
+Las empresas distribuidoras dispusieron hasta el 1 de junio de 2021 para
+adaptar los equipos de medida a la estructura de peajes definidos en la
+Circular.
+En aquellos casos en que no haya sido posible la adaptación del equipo de
+medida a la estructura de peajes de la Circular (contadores no sustituidos,
+contadores sin curva horaria, contadores cuya programación no haya sido
+posible con anterioridad al 1 de junio o fallos de programación de los
+contadores), la facturación de peajes de acceso se realizará a partir de los
+datos obtenidos de sus lecturas
+
+
+
+En particular, para los consumidores con equipo de medida con capacidad
+de registro horario, la energía por periodo horario se obtendrá a partir de la
+curva de carga horaria según los periodos conforme al calendario definido en
+el artículo 7 de la Circular.
+
+
+
+Cuando el consumidor no dispusiera de equipo de medida horario
+efectivamente integrado, el consumo real de acuerdo con la estructura de
+periodos vigentes se convertirá a los periodos conforme a los calendarios
+definidos en el artículo 7 de la Circular 3/2020 aplicando los porcentajes de
+conversión que se han establecidos a los efectos en la Resolución de precios.
+En el caso de aquellos puntos de suministro acogidos al peaje 2.0 TD que no
+dispongan de equipo de medida integrado en los sistemas de telegestión por
+causa imputable al consumidor y, dispongan por tanto de un único interruptor
+de control de potencia, estos no podrán contratar potencias diferenciadas por
+periodo horario16.
+En el caso de aquellos puntos de suministro acogidos al peaje 2.0 TD que
+dispongan de equipo de medida integrado en los sistemas de telegestión y
+también dispongan de un único interruptor de control de potencia, las
+empresas distribuidoras procederán a eliminar el citado dispositivo según los
+plazos establecidos en el artículo 103 del Real Decreto 1955/2000, desde la
+solicitud de contratación de potencias diferenciadas por periodo h.
+Finalmente, se indica que conforme al artículo 13.2 del Real Decreto
+1110/2007, por el que se aprueba el Reglamento unificado de puntos de
+medida del sistema eléctrico, independientemente de si el contador
+pertenece al consumidor o es alquilado a la empresa distribuidora, la empresa
+distribuidora, como encargada de la lectura del contador, será responsable
+de realizar la programación del contador acorde a las disposiciones de la
+nueva Circular.
+
+### Respecto de la adaptación de las potencias contratadas a la nueva estructura de peajes
+
+En tanto los consumidores no modifiquen sus contratos de acceso se
+mantendrán las potencias contratadas. No obstante, a efectos de la
+aplicación de los peajes, será necesaria la adaptación de las mismas a la
+estructura de peajes de la Circular. En particular, la adaptación de las
+potencias
+
+
+
+a) En el caso de consumidores conectados en baja tensión con potencia
+contratada inferior o igual a 15 kW (anteriores peajes 2.0 A y 2.1 A), dado
+que bajo la estructura actual de peajes de acceso anterior únicamente se
+contrata una potencia, se considerará la misma potencia en los periodos
+de punta y valle.
+Por ejemplo, el consumidor tuviera contratada una potencia de 4,0 kW
+pasaría bajo la nueva estructura de peajes a ser facturado considerando
+una potencia contratada en punta de 4,0 kW y una potencia contratada en
+valle de 4,0 kW
+
+![image-20220103013021387](Factura_Luz.assets/image-20220103013021387.png)
+
+b) En el caso de los consumidores conectados en baja tensión con potencia
+contratada superior a 15 kW (anterior peaje 3.0 A) y los conectados en
+tensión comprendida entre 1 y 36 kV con potencia contratada igual o
+inferior a 450 kW en todos los periodos (anterior peaje 3.1) se procederá
+de la siguiente manera:
+i. La potencia contratada del periodo 1 del peaje de seis periodos será
+igual a la potencia contratada en el periodo 1 del peaje al que
+estuviera acogido el consumidor a la entrada en vigor de la circular.
+ii. La potencia contratada en los periodos 2, 3, 4 y 5 del peaje de seis
+periodos será igual a la potencia contratada en el periodo 2 peaje al
+que estuviera acogido el consumidor a la entrada en vigor de la
+circular. En caso de incumplir el criterio de potencias crecientes, la
+potencia contratada en los periodos 2, 3, 4 y 5 será igual a la potencia
+contratada en el periodo 1.
+iii. La potencia contratada en el periodo 6 del peaje en seis periodos
+será igual a la potencia contratada en el periodo 3 del peaje al que
+estuviera acogido el consumidor a la entrada en vigor de la circular.
+En caso de incumplir el criterio de potencia crecientes, la potencia
+contratada en el periodo 6 será igual a la potencia contratada en el
+periodo 5.
+
+A modo de ejemplo, un consumidor acogido anteriormente al peaje de
+acceso 3.0 A17 que tuviera contratados 15 kW, 20 kW y 15 kW en los
+periodos 1, 2 y 3, respectivamente, pasaría a ser facturado al peaje de
+transporte y distribución de la Circular considerando 15 kW en el periodo
+1 y 20 kW en los periodos 2, 3, 4, 5 y 6.
+
+![image-20220103013125454](Factura_Luz.assets/image-20220103013125454.png)
+
+
+
+Un consumidor acogido anteriormente a los peajes de acceso 3.0 A o 3.1
+A que tuviera contratados 15 kW, 20 kW y 30 kW en los periodos 1, 2 y 3,
+respectivamente, pasaría a ser facturado al peaje de transporte y
+distribución de la Circular considerando 15 kW en el periodo 1, 20 kW en
+los periodos 2, 3, 4 y 5 y 30 kW en el periodo 6.
+
+![image-20220103013217452](Factura_Luz.assets/image-20220103013217452.png)
+
+
+
+c) Para el resto de consumidores se mantendrán las potencias contratadas
+por periodos horarios.
+
+
+
+
+
+###  Respecto del coste de la adaptación de las potencias contratadas a la nueva estructura de peajes
+
+Adicionalmente, en el punto 2 de la citada disposición transitoria primera se
+establece que el consumidor tendrá derecho a adaptar las potencias
+contratadas por periodo horario a los periodos horarios definidos en la
+Circular 3/2020, sin coste alguno, independientemente de si hubiera realizado
+un cambio de potencia en los doce meses anteriores.
+Al respecto se hace necesario aclarar que los consumidores podrán modificar
+dos veces las potencias contratadas con objeto de adaptarlas a los periodos
+horarios definidos en la Circular 3/2020 durante el periodo de doce meses a
+contar desde 1 de junio de 2021, a pesar de no haber transcurrido doce
+meses desde la última adaptación de las potencias.
+Estas modificaciones no tendrán coste siempre que no se supere la mayor
+de las potencias que el consumidor tuviera contratadas con anterioridad al 1
+de junio de 2021. Para que sean gratuitos los dos cambios han de realizarse
+en el período comprendido entre el 1 de junio de 2021 y el 31 de mayo de
+\2022. Agotados estos dos cambios, las modificaciones de potencia tendrán
+el coste que corresponda según la normativa vigente.
+En el caso de que la nueva modificación de potencia no supere la máxima de
+las potencias contratadas por el consumidor en el momento del cambio, no
+se aplicará lo dispuesto en el artículo 83.5 del Real Decreto 1955/2000, de 1
+de diciembre, por el que se regulan las actividades de transporte, distribución,
+comercialización, suministro de electricidad y procedimientos de autorización
+de instalaciones de energía eléctrica, sobre la revisión de las instalaciones
+de más de veinte años.
+En caso de que la potencia contratada supere en algún período la máxima de
+las potencias contratadas con anterioridad al 1 de junio de 2021, el
+consumidor deberá abonar el coste de los derechos de acometida aplicables
+y el derivado de eventuales cambios o actuaciones sobre los equipos de
+control y medida, con arreglo a la normativa que sea de aplicación.
+
+No obstante lo anterior, y dado que en el caso de aumentos de potencia para
+consumidores que cuenten con equipos de medida telegestionados no sería
+necesaria una actuación in situ en el domicilio del consumidor por parte de
+las empresas distribuidoras, y salvo que dicha actuación fuera acompañada
+de alguna otra que sí requiriera una actuación manual en el contador y por
+tanto fuera necesario un desplazamiento, no cabría el cobro de derechos por
+actuaciones18 en los equipos de medida y control previstos en el Real Decreto
+1048/2013.
+
+Los derechos de acometida son aquellos pagos que se deben realizar al
+distribuidor por atender un nuevo suministro o por el incremento de potencia
+de un suministro ya existente. Los derechos de acometida incluyen:
+a) Los derechos de acceso son la contraprestación económica asociada a la
+gestión administrativa del punto de suministro por parte del distribuidor.
+b) Los derechos de extensión son la contraprestación económica por uso de
+las instalaciones necesarias para atender el suministro
+
+Los derechos de actuación constituyen la contraprestación económica por
+la conexión y precintado de los equipos de medida, así como las actuaciones
+que se deban realizar en el contador derivadas de las decisiones del
+consumidor.
+Los derechos de acometida y los derechos de actuación están establecidos
+en el Anexo V de la Orden ITC/3519/2009, de 28 de diciembre, por la que se
+revisan los peajes de acceso a partir de 1 de enero de 2010 y las tarifas y
+primas de las instalaciones del régimen especial (véase Cuadro 22)
+
+![image-20220103013345666](Factura_Luz.assets/image-20220103013345666.png)
+
+Se señala que los niveles de tensión que se presentan en el citado Anexo V
+no se corresponden con la estructura de peajes por nivel de tensión fijada en
+la Circular 3/2020. En consecuencia, un consumidor acogido al peaje 6.2 TD
+tendrá que hacer frente a costes distintos en función del nivel de tensión al
+que el cliente se encuentre conectado (menor o igual a 36 kV, entre 36 kV y
+72,5 kV y mayor que 72,5 kV).
+A continuación, se ilustra con seis ejemplos cuál sería el importe a abonar en
+la adaptación de potencias:
+
+Ejemplo I: Un consumidor acogido a la tarifa 2.0 TD con un contador
+telegestionado que, a 1 de junio de 2021, tiene una potencia contratada de 5
+kW en Punta y Valle.
+\1) Utiliza su primer cambio para reducir su potencia en punta y valle a 4 kW
+\2) Utiliza su segundo cambio para aumentar de nuevo su potencia hasta 5
+kW en valle.
+
+![image-20220103013451728](Factura_Luz.assets/image-20220103013451728.png)
+
+
+
+Ejemplo II: Un consumidor acogido a la tarifa 2.0 TD con un contador
+telegestionado que, a 1 de junio de 2021, tiene una potencia contratada de 5
+kW en Punta y Valle.
+\1) Utiliza su primer cambio para reducir su potencia en punta y valle a 4 kW
+\2) Utiliza su segundo cambio para aumentar su potencia a 6 kW en valle. El
+incremento hasta 5 kW es gratuito. Por el incremento entre 5 kW y 6 kW
+debería abonar derechos de acceso y de extensión.
+
+![image-20220103013507150](Factura_Luz.assets/image-20220103013507150.png)
+
+
+
+
+
+Ejemplo III: Un consumidor acogido a la tarifa 2.0 TD con un contador
+telegestionado que, a 1 de junio de 2021, tiene una potencia contratada de 5
+kW en Punta y Valle.
+\1) Utiliza su primer cambio para para aumentar su potencia a 6 kW en valle.
+Deberá abonar derechos de acceso y extensión por el incremento de la
+potencia (1 kW)
+\2) Utiliza su segundo cambio para reducir la potencia de punta y valle.
+\3) Solicita un tercer cambio (no gratuito) para aumentar de nuevo la potencia
+de valle hasta 6 kW.
+
+![image-20220103013529488](Factura_Luz.assets/image-20220103013529488.png)
+
+
+
+Ejemplo IV: Un consumidor acogido a la tarifa 2.0 TD con un contador
+telegestionado que con anterioridad al 1 de junio de 2021 solicita una
+reducción de potencia de 5 a 4 kW.
+\1) Utiliza su primer cambio para para aumentar su potencia a 6 kW en valle.
+Deberá abonar derechos de acceso y extensión por el incremento de la
+potencia (1 kW).
+\2) Utiliza su segundo cambio para reducir la potencia de punta y valle.
+
+![image-20220103013553207](Factura_Luz.assets/image-20220103013553207.png)
+
+
+
+Ejemplo V: Consumidor acogido a la tarifa 6.1 TD conectado a tensión
+comprendida entre 1 y 30 kV.
+\1) Utiliza su primer cambio para para reducir la potencia del periodo 1.
+\2) Utiliza su segundo cambio para reducir la potencia del periodo 6.
+\3) Utiliza un tercer cambio (no gratuito) para aumentar la potencia de los
+periodos 1 a 6, sin sobrepasar la mayor de las contratadas con
+anterioridad al 1 de junio de 2021.
+
+![image-20220103013614509](Factura_Luz.assets/image-20220103013614509.png)
+
+Ejemplo VI: Consumidor acogido a la tarifa 6.1 TD conectado a tensión
+comprendida entre 1 y 30 kV.
+\1) Utiliza su primer cambio para para reducir la potencia del periodo 1 y
+aumentar la potencia de los periodos 2 a 5.
+\2) Utiliza su segundo cambio para aumentar la potencia de los periodos 5 y
+6.
+
+![image-20220103013636183](Factura_Luz.assets/image-20220103013636183.png)
+
+A partir del 1 de junio de 2022, de conformidad con la normativa aplicable, el
+cliente podrá incrementar su potencia las veces que lo necesite, si bien el
+distribuidor podrá negarle el cambio si no hubieran transcurrido doce meses
+desde el último cambio. Por el contrario, solo podrá reducir la potencia una
+vez cada doce meses.
+Los clientes que reduzcan su potencia deberán hacer frente a los costes de
+actuación que corresponda.
+Las adaptaciones de potencia que supongan un incremento de potencia
+respecto a la contratada en el momento del cambio deberán abonar los
+derechos de acceso, los derechos de extensión y los costes de actuación,
+según se establezca.
+Tras una reducción de potencia, si el consumidor decide incrementar la
+misma volviendo a la potencia inicial antes de haber transcurrido tres años
+en el caso de baja tensión o cinco años en el caso de alta tensión, debería
+de hacer frente únicamente a los derechos de acceso y derechos de
+actuación ya que los derechos de extensión seguirían vigentes. En el caso
+de que hubieran transcurrido más de tres años o cinco años,
+respectivamente, también deberían de hacer frente a los costes de
+extensión.
+
+
+
+### Respecto de la adaptación de las potencias máximas registradas a la nueva estructura de peajes
+
+En aquellos casos en que no haya sido posible la adaptación del equipo de
+medida, las potencias demandadas correspondientes a cada periodo horario
+
+
+
+se obtendrán de la curva de carga cuartohoraria, o alternativamente de la
+curva de carga horaria si no se dispone de ésta, según los periodos conforme
+al calendario definido en el artículo 7 de la Circular 3/2020. La potencia
+demandada se facturará conforme a lo establecido en el punto el artículo 9.4
+de la Circular 3/2020.
+En el caso de puntos de suministro sin equipo de medida horario
+efectivamente integrado, las potencias registradas por los maxímetros
+conforme a estructura de peajes del Real Decreto 1164/2001 se convertirán
+a la estructura de la Circular 3/2020 aplicando las siguientes reglas:
+
+i) Para los suministros conectados en baja tensión con potencia
+demanda contratada igual o inferior a 15 kW, la potencia demanda de
+los periodos de punta y valle se corresponderá con potencias
+registrada por el maxímetro.
+ii) Para los suministros conectados en baja tensión con potencia
+contratada superior a 15 kW y los conectados en tensión comprendida
+entre 1 y 36 kV con potencia contratada igual o inferior a 450 kW en
+todos los periodos:
+a. La potencia demandada del periodo 1 se corresponderá con la
+potencia demandada del periodo 1 del peaje al que estuviera
+acogido el consumidor hasta la entrada en vigor de la Resolución.
+b. La potencia demandada de los periodos 2, 3, 4 y 5 del peaje de
+seis periodos se corresponderá con la potencia demandada del
+periodo de llano del peaje al que estuviera acogido el consumidor
+hasta la entrada en vigor de la Resolución.
+c. La potencia demandada del periodo 6 se corresponderá con la
+potencia demandada del periodo de valle del peaje al que
+estuviera acogido el consumidor hasta la entrada en vigor de la
+Resolución.
+iii) La facturación por potencia demandada se realizará conforme al punto
+9.4.b.1) de la Circular 3/2020.
+
+
+
+### Respecto de la adaptación de los sistemas de facturación
+
+Respetando el ciclo de facturación, las empresas distribuidoras deberán
+remitir dos facturas: una con el consumo correspondiente hasta la fecha de
+aplicación de los nuevos peajes, aplicando los peajes anteriores, y otra desde
+la fecha de aplicación de los nuevos peajes, hasta el fin del ciclo de
+facturación, aplicando los nuevos peajes
+
+
+
+### Respecto de la información a los consumidores
+
+El apartado cuarto de la Disposición Transitoria primera establece que las
+empresas comercializadoras informarán de forma clara y transparente a los
+consumidores de la nueva estructura de peajes.
+La información a remitir debería centrarse, al menos, los siguientes aspectos,
+(i) el cambio de peajes aplicable, (ii) los nuevos periodos tarifarios aplicables,
+(iii) separación de los peajes de acceso en peajes de transporte y distribución
+y cargos (iii) adaptación en las condiciones contractuales consecuencia de
+las modificaciones anteriores.
+La diversidad de situaciones no ha hecho posible establecer un modelo
+estandarizado de comunicación, pero, en cualquier caso, la comunicación
+deberá ser fácilmente comprensible por un consumidor medio evitando la
+utilización de terminología farragosa o de difícil comprensión.
+Asimismo, se sugiere incluir en la comunicación los medios de contacto que
+establezca la comercializadora para aclarar sus posibles dudas, así como un
+link al presente documento.
+
+
+
+## 12. Adaptación de los contratos de suministro
+
+En relación con la adaptación de los contratos de suministro a la estructura de
+peajes de la Circular 3/2020, se indica que la Disposición transitoria primera de
+la citada Circular establece, tras su modificación por la Circular 3/2021, que “Las
+empresas distribuidoras y comercializadoras adaptarán los equipos de medida,
+los sistemas de facturación y los contratos a lo dispuesto en esta circular antes
+del 1 de junio de 2021”.
+En consecuencia, antes de la citada fecha las empresas distribuidoras han
+debido adaptar los equipos de medida y los sistemas de facturación, mientras
+que las empresas comercializadoras, además, han debido adaptar los contratos
+de sus clientes. Es decir, han debido, en su caso19, adaptar el coste de la energía
+que haya libremente pactado con el consumidor bajo la anterior estructura a la
+nueva estructura de peajes y cargos.
+Se indica que esta adaptación de los contratos afecta a los consumidores que
+tengan contratado su suministro con un comercializador libre, ya que el Real
+Decreto por el que se establece la metodología de cargos modifica el Real
+Decreto 216/2014 a efectos de adaptar la estructura del PVPC a la nueva
+estructura de peajes y cargos.
+
+En relación con los contratos firmados entre las comercializadoras y los
+consumidores se debe tener en cuenta que las adaptaciones necesarias
+dependerán de (i) las condiciones contractuales establecidas entre las partes, (ii)
+el perfil de consumo del punto o puntos de suministro afectados, (iii) las
+modificaciones que el cambio de los periodos horarios induzca en el
+comportamiento del consumidor, (iv) las modificaciones introducidas o a
+introducir en el resto de componentes regulados que forman parte del coste de
+la energía (retribuciones al operador del mercado y al operador de sistema, y
+pagos por capacidad).
+Un aspecto relevante en el proceso de adaptación de los contratos es el perfil de
+consumo del punto de suministro. Si la CNMC estableciera unos coeficientes de
+adaptación que permitieran convertir los precios de energía con la estructura
+establecida en la Orden ITC/2794/2007 a los que correspondería conforme a la
+estructura de peajes de la Circular 3/2020, únicamente podría tener en cuenta el
+perfil medio del de cada grupo de peajes, dado que es la única información de la
+que dispone, lo que podría beneficiar o perjudicar a las empresas
+comercializadoras, en la medida en que estas habrán presentado sus ofertas
+teniendo en cuenta el perfil concreto de los suministros a los que van a
+abastecer.
+Teniendo en cuenta las consideraciones anteriores y que los precios de los
+contratos por el suministro de energía se corresponden con el componente
+liberalizado y que ha sido libremente acordado entre consumidor y
+comercializador, cabe concluir que la CNMC no tiene competencias para
+establecer las adaptaciones necesarias a los mismos.
+Al respecto, se indica que deben ser las empresas comercializadoras las que se
+dirijan a los consumidores y les informe adecuadamente sobre la nueva
+estructura de peajes y cargos y el impacto sobre los precios por el componente
+de energía pactados con los mismos
+
+
+
+
+
+
+
+## ANEXO I. PRECIOS DE LOS PEAJES DE TRANSPORTE Y DISTRIBUCIÓN. AÑO 2021
+
+### Anexo I. Precios de los términos de potencia contratada y de energía activa
+
+
+
+#### 1. Precios de los términos de potencia contratada y energía activa de los peajes de transporte y distribución de aplicación a los consumidores, a
+los autoconsumidores por la energía demandada de la red y a los generadores por los consumos propios
+
+
+
+##### a) Términos de potencia contratada:
+
+![image-20220103014601828](Factura_Luz.assets/image-20220103014601828.png)
+
+##### b) Los términos de energía:
+
+![image-20220103014633583](Factura_Luz.assets/image-20220103014633583.png)
+
+
+
+#### 2. Precios los términos de energía de los pagos de autoconsumidores por la energía autoconsumida en el caso instalaciones próximas a través de red
+
+![image-20220103014906912](Factura_Luz.assets/image-20220103014906912.png)
+
+
+
+
+
+#### 3. Precios de los términos de potencia contratada y de energía de los peajes de aplicación a los puntos de suministro de acceso público dedicados a la recarga de vehículos eléctricos
+
+
+
+##### a) Puntos de recarga de vehículos eléctricos conectados en baja tensión:
+
+![image-20220103015029225](Factura_Luz.assets/image-20220103015029225.png)
+
+##### b) Puntos de recarga de vehículos eléctricos conectados en media tensión:
+
+![image-20220103015037602](Factura_Luz.assets/image-20220103015037602.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Referencias
