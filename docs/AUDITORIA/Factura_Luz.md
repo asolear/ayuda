@@ -6,7 +6,6 @@
 
 ## 1. Objeto
 
-
 El Real Decreto-ley 1/2019, de 11 de enero 1 , modifica las competencias de la
 CNMC como autoridad reguladora nacional en relación a la metodología para el
 establecimiento de los peajes de transporte y distribución. En particular,
@@ -361,10 +360,8 @@ Donde:
 - $P_{C_p}$ Potencia contratada en el período horario p , expresada en kW.
 - i :Número de periodos horarios de los que consta el término def acturación de potencia del peaje correspondiente.	
 
-CNS/DE/1467/20 Comisión Nacional de los Mercados y la Competencia
-C/ Barquillo, 5 – 28004 Madrid - C/ Bolivia, 56 – 08018 Barcelona
-www.cnmc.es
-Página 14 de 51
+
+
 La facturación de potencia se prorrateará por el número de días de cada año
 (normal o bisiesto), o el número de horas en el caso de contratos de duración
 inferior al día, que comprende el periodo de facturación, considerando que el día

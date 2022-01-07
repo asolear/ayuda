@@ -1,63 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://solicituddeayudasautoconsumo/</loc>
-         <lastmod>2021-11-24</lastmod>
+         <loc>https://ayudas.solar/</loc>
+         <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://solicituddeayudasautoconsumo/AUDITORIA/Anexo_IV_Ejemplos/</loc>
-         <lastmod>2021-11-24</lastmod>
+         <loc>https://ayudas.solar/AUDITORIA/Anexo_IV_Ejemplos/</loc>
+         <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://solicituddeayudasautoconsumo/AUDITORIA/Factura_Luz/</loc>
-         <lastmod>2021-11-24</lastmod>
+         <loc>https://ayudas.solar/AUDITORIA/Factura_Luz/</loc>
+         <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://solicituddeayudasautoconsumo/AUDITORIA/RD%2056_2016/</loc>
-         <lastmod>2021-11-24</lastmod>
+         <loc>https://ayudas.solar/AUDITORIA/RD%2056_2016/</loc>
+         <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://solicituddeayudasautoconsumo/AUDITORIA/Real%20Decreto%204772021/</loc>
-         <lastmod>2021-11-24</lastmod>
+         <loc>https://ayudas.solar/AUDITORIA/Real%20Decreto%204772021/</loc>
+         <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://solicituddeayudasautoconsumo/AUDITORIA/Viabilidad_Economica/</loc>
-         <lastmod>2021-11-24</lastmod>
+         <loc>https://ayudas.solar/AUDITORIA/Resoluci%C3%B3n%20de%2018%20de%20marzo%20de%202021%2C%20de%20la%20%20Comisi%C3%B3n%20Nacional%20de%20los%20Mercados%20y%20la%20Competencia%2C%20por%20la%20que%20se%20%20establecen/</loc>
+         <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://solicituddeayudasautoconsumo/AUDITORIA/normativa/</loc>
-         <lastmod>2021-11-24</lastmod>
+         <loc>https://ayudas.solar/AUDITORIA/Viabilidad_Economica/</loc>
+         <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://solicituddeayudasautoconsumo/AYUDAS/</loc>
-         <lastmod>2021-11-24</lastmod>
+         <loc>https://ayudas.solar/AUDITORIA/normativa/</loc>
+         <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://solicituddeayudasautoconsumo/Estudio_Tecnico/ET_GRATUITO/</loc>
-         <lastmod>2021-11-24</lastmod>
+         <loc>https://ayudas.solar/AYUDAS/</loc>
+         <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://solicituddeayudasautoconsumo/RENOVABLES/Instalacion_BATERIAS/</loc>
-         <lastmod>2021-11-24</lastmod>
+         <loc>https://ayudas.solar/Estudio_Tecnico/ET_GRATUITO/</loc>
+         <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://solicituddeayudasautoconsumo/RENOVABLES/Instalacion_EOLICA/</loc>
-         <lastmod>2021-11-24</lastmod>
+         <loc>https://ayudas.solar/RENOVABLES/Instalacion_BATERIAS/</loc>
+         <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://solicituddeayudasautoconsumo/RENOVABLES/Instalacion_FV/</loc>
-         <lastmod>2021-11-24</lastmod>
+         <loc>https://ayudas.solar/RENOVABLES/Instalacion_EOLICA/</loc>
+         <lastmod>2022-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ayudas.solar/RENOVABLES/Instalacion_FV/</loc>
+         <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
