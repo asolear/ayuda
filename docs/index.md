@@ -1,1 +1,3 @@
+# Renovables
+
 {{ blog_content }}
