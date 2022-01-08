@@ -19,9 +19,9 @@ plugins:
   - search
   - macros:
       include_dir: snippets  
-  - blogging:
-      dirs: # The directories to be included
-        - blog
+  # - blogging:
+  #     dirs: # The directories to be included
+  #       - blog
   # - print-site
       #  icono "≡"
 # https://analytics.google.com/analytics/web/?authuser=2#/p288143966/realtime/overview?params=_u..nav%3Dmaui
