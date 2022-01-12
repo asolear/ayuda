@@ -9,5 +9,6 @@ mkdocs-video
 # mkdocs-material-extensions 
 # pymdown-extensions 
 mkdocs-macros-plugin
-
+mkdocs-material-extensions
+pymdown-extensions 
 # mkdocs-blogging-plugin

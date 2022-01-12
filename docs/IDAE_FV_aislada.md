@@ -1,8 +1,14 @@
-#
+## ANEXO I DIMENSIONADO DEL SISTEMA FOTOVOLTAICO
+
+
+
+
 
 ![]({{ fig.url }}f00){ loading=lazy }
 
+### I. Estimación del consumo diario de energía
 
+#### 1 Generalidades
 
 * 1.1 La estimación correcta de la energía consumida por el sistema fotovoltaico sólo es sencilla en  aquellas aplicaciones en las que se conocen exactamente las características de la carga (por  ejemplo, sistemas de telecomunicación). Sin embargo, en otras aplicaciones, como puede ser la  electrificación de viviendas, la tarea no resulta fácil pues intervienen multitud de factores que  afectan al consumo final de electricidad: tamaño y composición de las familias (edad, formación,  etc.), hábitos de los usuarios, capacidad para administrar la energía disponible, etc.
 ![]({{ fig.url }}f01){ loading=lazy }
@@ -279,7 +285,7 @@ cualquier otro factor que quiera considerar, respetando los límites estipulados
 
 
 
-#### III. Ejemplo de cálculo
+### III. Ejemplo de cálculo
 
 ##### 1 Estudio de la carga
 
@@ -349,7 +355,7 @@ tienen los siguientes valores:
 
 
 
-## DOCUMENTACIÓN QUE SE DEBE INCLUIR EN LAS MEMORIAS
+## ANEXO II DOCUMENTACIÓN QUE SE DEBE INCLUIR EN LAS MEMORIAS
 
 ### 1. Consumo diario de energía eléctrica
 
