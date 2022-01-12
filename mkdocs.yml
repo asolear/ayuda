@@ -53,9 +53,9 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.pathconverter:
-      base_path: '' # default: ''
+      base_path: 'ayuda' # default: ''
       relative_path: 'ayuda' # default ''
-      absolute: False # default: false
+      absolute: true # default: false
       tags: 'a script img link object embed'
 
 
