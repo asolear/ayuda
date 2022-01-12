@@ -1,5 +1,28 @@
 
 #
+???+ warning "Tecnico FV"
+
+    ??? Abstract "IDAE FV CONECTADAS"
+
+        {% with pdf_file = "../../artifacts/documentos_5654_FV_pliego_condiciones_tecnicas_instalaciones_conectadas_a_red_C20_Julio_2011_3498eaaf.pdf" %}
+        <object data="{{ pdf_file }}" type="application/pdf" width="100%" height="1200px">
+        <a href="{{ pdf_file }}" >Descargar</a>    
+        <embed src="{{ pdf_file }}"  />    
+        </object>
+        {% endwith %}
+
+    ??? Abstract "IDAE FV AISLADAS"
+
+        {% with pdf_file = "../../artifacts/documentos_5654_FV_Pliego_aisladas_de_red_09_d5e0a327.pdf" %}
+        <object data="{{ pdf_file }}" type="application/pdf" width="100%" height="1200px">
+        <a href="{{ pdf_file }}" >Descargar</a>    
+        <embed src="{{ pdf_file }}"  />    
+        </object>
+        {% endwith %}
+
+
+
+
 ???+ warning "Ayudas Solar"
 
     ??? Abstract "BOE.- Real Decreto 477/2021, ayudas ... autoconsumo  y  al  almacenamiento, ... energía  renovable... "
