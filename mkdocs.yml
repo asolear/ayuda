@@ -54,7 +54,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.pathconverter:
       base_path: 'https://asolear.es/ayuda/artifacts/' # default: ''
-      relative_path: 'ayuda' # default ''
+      relative_path: '' # default ''
       absolute: false # default: false
       tags: 'a script img link object embed'
 
