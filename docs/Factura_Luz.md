@@ -1495,11 +1495,3 @@ los autoconsumidores por la energía demandada de la red y a los generadores por
 
 ???+ Abstract "Factura de la luz"
     !!! Warning "Editar informe ($t_{1^a\ carga}\leq 15s.$) "
-    
-    [![Placeholder](../img/e_A_FACTURA.png){ loading=lazy }](https://eee1-uom5ariccq-ew.a.run.app/estudios/e_A_FACTURA){ .md-button }
-
-
-???+ Abstract "Analisis curva de carga"
-    !!! Warning "Editar informe ($t_{1^a\ carga}\leq 15s.$) "
-
-    [![Placeholder](../img/e_A_CARGA.png){ loading=lazy }](https://eee1-uom5ariccq-ew.a.run.app/estudios/e_A_CARGA){ .md-button }
