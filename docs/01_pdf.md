@@ -30,7 +30,7 @@
 * [asit-presentacion ayudas](https://www.asit-solar.com/wp-content/uploads/2021/11/ANDALUCIA-Ayudas-PRTR-Termicas-2021-2023_.pdf)
 
 ## OTRAS
-* [DSAFA](DFASFDSA)
+* [miteco-hojaderutaautoconsumo_tcm30](https://www.miteco.gob.es/es/ministerio/planes-estrategias/hoja-ruta-autoconsumo/hojaderutaautoconsumo_tcm30-534411.pdf)
 * [DSAFA](DFASFDSA)
 * [DSAFA](DFASFDSA)
 * [DSAFA](DFASFDSA)
